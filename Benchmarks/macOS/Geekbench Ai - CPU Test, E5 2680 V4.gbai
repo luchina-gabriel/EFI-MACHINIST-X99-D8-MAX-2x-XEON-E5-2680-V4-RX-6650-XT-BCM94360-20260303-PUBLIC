@@ -1,0 +1,1253 @@
+{
+  "document_type": 1,
+  "document_version": 1,
+  "checksum": "7312c9930baf97341068ffa3ef78830b6069aac7",
+  "version": "Geekbench AI 1.5.0",
+  "build": 101922,
+  "branch": "banff-main-build",
+  "commit": "3bb28d499c",
+  "uuid": "6572967b64b340d989435557de909d92",
+  "system_uuid": "3d2e13f4a29da91492c4fc7e071865a27980f4de",
+  "metrics": [
+    {
+      "id": 10000,
+      "value": "Core ML",
+      "ivalue": 0
+    },
+    {
+      "id": 10001,
+      "value": "CPU",
+      "ivalue": 0
+    },
+    {
+      "id": 10027,
+      "value": "Intel Xeon E5-2680 v4",
+      "ivalue": 0
+    },
+    {
+      "id": 1,
+      "value": "macOS AVX2",
+      "ivalue": 0
+    },
+    {
+      "id": 2,
+      "value": "Clang 17.0.0 (clang-1700.0.13.3)",
+      "ivalue": 0
+    },
+    {
+      "id": 3,
+      "value": "macOS 26.3 (Build 25D125)",
+      "ivalue": 0
+    },
+    {
+      "id": 4,
+      "value": "MacPro7,1",
+      "ivalue": 0
+    },
+    {
+      "id": 5,
+      "value": "MacPro7,1",
+      "ivalue": 0
+    },
+    {
+      "id": 6,
+      "value": "Acidanthera Mac-27AD2F918AE68F61 MacPro7,1",
+      "ivalue": 0
+    },
+    {
+      "id": 7,
+      "value": "GenuineIntel Family 6 Model 79 Stepping 1",
+      "ivalue": 0
+    },
+    {
+      "id": 8,
+      "value": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+      "ivalue": 0
+    },
+    {
+      "id": 9,
+      "value": "Intel Xeon E5-2680 v4",
+      "ivalue": 0
+    },
+    {
+      "id": 12,
+      "value": "56",
+      "ivalue": 56
+    },
+    {
+      "id": 13,
+      "value": "28",
+      "ivalue": 28
+    },
+    {
+      "id": 14,
+      "value": "2",
+      "ivalue": 2
+    },
+    {
+      "id": 15,
+      "value": "2.40 GHz",
+      "ivalue": 2400000000
+    },
+    {
+      "id": 17,
+      "value": "32.0 KB",
+      "ivalue": 32768
+    },
+    {
+      "id": 18,
+      "value": "14",
+      "ivalue": 14
+    },
+    {
+      "id": 19,
+      "value": "32.0 KB",
+      "ivalue": 32768
+    },
+    {
+      "id": 20,
+      "value": "14",
+      "ivalue": 14
+    },
+    {
+      "id": 21,
+      "value": "256 KB",
+      "ivalue": 262144
+    },
+    {
+      "id": 22,
+      "value": "14",
+      "ivalue": 14
+    },
+    {
+      "id": 23,
+      "value": "35.0 MB",
+      "ivalue": 36700160
+    },
+    {
+      "id": 24,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 25,
+      "value": "0.00 B",
+      "ivalue": 0
+    },
+    {
+      "id": 26,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 27,
+      "value": "400 MHz",
+      "ivalue": 400000000
+    },
+    {
+      "id": 29,
+      "value": "64.0 GB",
+      "ivalue": 68719476736
+    },
+    {
+      "id": 30,
+      "value": "RAM",
+      "ivalue": 0
+    },
+    {
+      "id": 31,
+      "value": "Acidanthera 2087.0.0.0.0",
+      "ivalue": 0
+    },
+    {
+      "id": 34,
+      "value": "AMD Radeon RX 6650 XT",
+      "ivalue": 0
+    },
+    {
+      "id": 38,
+      "value": "Acidanthera",
+      "ivalue": 0
+    },
+    {
+      "id": 39,
+      "value": "0x7",
+      "ivalue": 7
+    },
+    {
+      "id": 45,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 46,
+      "value": "28 Cores",
+      "ivalue": 0
+    },
+    {
+      "id": 47,
+      "value": "28",
+      "ivalue": 28
+    },
+    {
+      "id": 74,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 88,
+      "value": "Clang",
+      "ivalue": 0
+    },
+    {
+      "id": 89,
+      "value": "2400 MHz",
+      "ivalue": 2400
+    },
+    {
+      "id": 90,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 93,
+      "value": "56",
+      "ivalue": 56
+    },
+    {
+      "id": 94,
+      "value": "0x1",
+      "ivalue": 1
+    },
+    {
+      "id": 117,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 118,
+      "value": "002308b5e783",
+      "ivalue": 0
+    }
+  ],
+  "platform": {
+    "os": "macOS",
+    "architecture": "x86_64",
+    "bits": 64
+  },
+  "date": "2026-03-03 21:09:00 -0300",
+  "clock": 0.13832788200000001,
+  "runtime": 440.56880459800004,
+  "score": 0,
+  "f32_score": 673,
+  "f16_score": 595,
+  "i8_score": 380,
+  "framework_id": 2,
+  "framework_name": "Core ML",
+  "backend_id": 1,
+  "backend_name": "CPU",
+  "device_id": 0,
+  "device_name": "Intel Xeon E5-2680 v4",
+  "sections": [
+    {
+      "name": "AI",
+      "id": 1,
+      "score": 0,
+      "f32_score": 673,
+      "f16_score": 595,
+      "i8_score": 380,
+      "workloads": [
+        {
+          "name": "Image Classification (SP)",
+          "id": 1111,
+          "unit": 1,
+          "score": 362,
+          "graph_width": 8,
+          "factory_clock": 0.138653787,
+          "factory_runtime": 0.40432696900000004,
+          "workload_clock": 0.54300181400000003,
+          "workload_runtime": 5.2446071300000003,
+          "runtime": 1.0401956300000001,
+          "rate": 67.295033723608313,
+          "rate_string": "67.3 IPS",
+          "runtimes": [
+            1.0637126560000001,
+            1.051935981,
+            1.041074308,
+            1.0401956300000001,
+            1.0416732870000001
+          ],
+          "work": [
+            70,
+            70,
+            70,
+            70,
+            70
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Image Classification (HP)",
+          "id": 1112,
+          "unit": 1,
+          "score": 236,
+          "graph_width": 5,
+          "factory_clock": 6.8037543180000002,
+          "factory_runtime": 0.34187392500000002,
+          "workload_clock": 7.1456540150000007,
+          "workload_runtime": 8.0560998420000001,
+          "runtime": 1.595065371,
+          "rate": 43.885348696470444,
+          "rate_string": "43.9 IPS",
+          "runtimes": [
+            1.6569204560000002,
+            1.595065371,
+            1.5979693190000002,
+            1.6054659530000002,
+            1.5971426310000001
+          ],
+          "work": [
+            70,
+            70,
+            70,
+            70,
+            70
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Image Classification (Q)",
+          "id": 1113,
+          "unit": 1,
+          "score": 127,
+          "graph_width": 2,
+          "factory_clock": 16.215693727000001,
+          "factory_runtime": 0.38373184700000001,
+          "workload_clock": 16.599453895,
+          "workload_runtime": 14.823265629000002,
+          "runtime": 2.9592925120000002,
+          "rate": 23.654302410508041,
+          "rate_string": "23.7 IPS",
+          "runtimes": [
+            2.966342488,
+            2.9592925120000002,
+            2.96097549,
+            2.9661044430000003,
+            2.9671030780000001
+          ],
+          "work": [
+            70,
+            70,
+            70,
+            70,
+            70
+          ],
+          "accuracy": [
+            0.95714285714285718
+          ],
+          "adjustment": 0.99587154192591365,
+          "fallback": 0
+        },
+        {
+          "name": "Image Segmentation (SP)",
+          "id": 1121,
+          "unit": 1,
+          "score": 449,
+          "graph_width": 10,
+          "factory_clock": 32.441617095000005,
+          "factory_runtime": 0.558886667,
+          "workload_clock": 33.000527914999999,
+          "workload_runtime": 3.6579661960000003,
+          "runtime": 0.68701736899999999,
+          "rate": 7.277836377379856,
+          "rate_string": "7.28 IPS",
+          "runtimes": [
+            0.72134793200000002,
+            0.68701736899999999,
+            0.6929284,
+            0.69342487600000002,
+            0.70656327900000004
+          ],
+          "work": [
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Image Segmentation (HP)",
+          "id": 1122,
+          "unit": 1,
+          "score": 331,
+          "graph_width": 7,
+          "factory_clock": 37.667450692999999,
+          "factory_runtime": 0.59056377500000001,
+          "workload_clock": 38.258037790000003,
+          "workload_runtime": 4.8279165390000003,
+          "runtime": 0.93204071100000008,
+          "rate": 5.3645725352870341,
+          "rate_string": "5.36 IPS",
+          "runtimes": [
+            0.95251577700000001,
+            0.93276366200000005,
+            0.93204071100000008,
+            0.94122713600000008,
+            0.93770018700000002
+          ],
+          "work": [
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "accuracy": [
+            0.99910481770833337
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Image Segmentation (Q)",
+          "id": 1123,
+          "unit": 1,
+          "score": 224,
+          "graph_width": 4,
+          "factory_clock": 44.092245919,
+          "factory_runtime": 0.765969503,
+          "workload_clock": 44.858240743000003,
+          "workload_runtime": 7.1379860750000006,
+          "runtime": 1.3764069170000002,
+          "rate": 3.6326466673808495,
+          "rate_string": "3.63 IPS",
+          "runtimes": [
+            1.4090638980000001,
+            1.3764069170000002,
+            1.4122053250000002,
+            1.3955489280000002,
+            1.385043121
+          ],
+          "work": [
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "accuracy": [
+            0.99248725043402775
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Pose Estimation (SP)",
+          "id": 1131,
+          "unit": 1,
+          "score": 1523,
+          "graph_width": 33,
+          "factory_clock": 53.003117260000003,
+          "factory_runtime": 1.7791183580000001,
+          "workload_clock": 54.782260540000003,
+          "workload_runtime": 28.289711312000001,
+          "runtime": 5.627835138,
+          "rate": 1.7768821855634109,
+          "rate_string": "1.78 IPS",
+          "runtimes": [
+            5.6538520999999999,
+            5.6643663270000006,
+            5.627835138,
+            5.6662115399999999,
+            5.6611162680000007
+          ],
+          "work": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Pose Estimation (HP)",
+          "id": 1132,
+          "unit": 1,
+          "score": 1190,
+          "graph_width": 26,
+          "factory_clock": 84.113205153999999,
+          "factory_runtime": 1.4733500400000001,
+          "workload_clock": 85.586581099,
+          "workload_runtime": 36.136149780000004,
+          "runtime": 7.2044149620000004,
+          "rate": 1.3880377591720403,
+          "rate_string": "1.39 IPS",
+          "runtimes": [
+            7.2486946040000007,
+            7.2218981790000001,
+            7.2125671130000004,
+            7.2322242000000001,
+            7.2044149620000004
+          ],
+          "work": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Pose Estimation (Q)",
+          "id": 1133,
+          "unit": 1,
+          "score": 953,
+          "graph_width": 21,
+          "factory_clock": 122.747737579,
+          "factory_runtime": 1.6465411640000001,
+          "workload_clock": 124.39430413700001,
+          "workload_runtime": 45.033709742000006,
+          "runtime": 8.956855967000001,
+          "rate": 1.1164631916426127,
+          "rate_string": "1.12 IPS",
+          "runtimes": [
+            8.9841839910000001,
+            8.956855967000001,
+            9.0129472709999998,
+            9.0463798430000004,
+            9.0173993910000014
+          ],
+          "work": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "accuracy": [
+            0.96318626403808594
+          ],
+          "adjustment": 0.99615923352568836,
+          "fallback": 0
+        },
+        {
+          "name": "Object Detection (SP)",
+          "id": 1141,
+          "unit": 1,
+          "score": 381,
+          "graph_width": 8,
+          "factory_clock": 170.44515837600002,
+          "factory_runtime": 0.63346996300000002,
+          "workload_clock": 171.07868052000001,
+          "workload_runtime": 6.9154363060000001,
+          "runtime": 1.3566937590000001,
+          "rate": 30.220526723894213,
+          "rate_string": "30.2 IPS",
+          "runtimes": [
+            1.3786131990000001,
+            1.3593677210000001,
+            1.3673449990000002,
+            1.3566937590000001,
+            1.3590169940000001
+          ],
+          "work": [
+            41,
+            41,
+            41,
+            41,
+            41
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Object Detection (HP)",
+          "id": 1142,
+          "unit": 1,
+          "score": 282,
+          "graph_width": 6,
+          "factory_clock": 179.02503455000002,
+          "factory_runtime": 0.51130899000000007,
+          "workload_clock": 179.53637135300002,
+          "workload_runtime": 9.362367411000001,
+          "runtime": 1.834470319,
+          "rate": 22.349775613894792,
+          "rate_string": "22.3 IPS",
+          "runtimes": [
+            1.8756572790000001,
+            1.8467555630000001,
+            1.8593983000000001,
+            1.834470319,
+            1.8508902270000001
+          ],
+          "work": [
+            41,
+            41,
+            41,
+            41,
+            41
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Object Detection (Q)",
+          "id": 1143,
+          "unit": 1,
+          "score": 158,
+          "graph_width": 3,
+          "factory_clock": 189.930985316,
+          "factory_runtime": 0.61320503000000004,
+          "workload_clock": 190.54421618900002,
+          "workload_runtime": 16.469811083,
+          "runtime": 3.2480503630000004,
+          "rate": 12.622956979685229,
+          "rate_string": "12.6 IPS",
+          "runtimes": [
+            3.2794640560000001,
+            3.2769464340000001,
+            3.2926058060000001,
+            3.2480503630000004,
+            3.2786450180000002
+          ],
+          "work": [
+            41,
+            41,
+            41,
+            41,
+            41
+          ],
+          "accuracy": [
+            0.9219512939453125
+          ],
+          "adjustment": 0.99371581763385008,
+          "fallback": 0
+        },
+        {
+          "name": "Face Detection (SP)",
+          "id": 1151,
+          "unit": 1,
+          "score": 700,
+          "graph_width": 15,
+          "factory_clock": 208.04112048900001,
+          "factory_runtime": 0.56869601400000003,
+          "workload_clock": 208.609842305,
+          "workload_runtime": 7.2719156080000005,
+          "runtime": 1.442417995,
+          "rate": 8.3193637638997977,
+          "rate_string": "8.32 IPS",
+          "runtimes": [
+            1.4674935180000002,
+            1.4565036100000002,
+            1.442417995,
+            1.447915316,
+            1.456904076
+          ],
+          "work": [
+            12,
+            12,
+            12,
+            12,
+            12
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Face Detection (HP)",
+          "id": 1152,
+          "unit": 1,
+          "score": 535,
+          "graph_width": 11,
+          "factory_clock": 216.90738051600002,
+          "factory_runtime": 0.577225184,
+          "workload_clock": 217.48463031600002,
+          "workload_runtime": 9.7722590600000014,
+          "runtime": 1.887755528,
+          "rate": 6.356755322397869,
+          "rate_string": "6.36 IPS",
+          "runtimes": [
+            1.9623692910000001,
+            1.9500790050000001,
+            1.887755528,
+            1.975118358,
+            1.9963426030000002
+          ],
+          "work": [
+            12,
+            12,
+            12,
+            12,
+            12
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Face Detection (Q)",
+          "id": 1153,
+          "unit": 1,
+          "score": 233,
+          "graph_width": 5,
+          "factory_clock": 228.28710353300002,
+          "factory_runtime": 0.9024104770000001,
+          "workload_clock": 229.18954097400001,
+          "workload_runtime": 22.251874197000003,
+          "runtime": 4.331072142,
+          "rate": 2.7706765453365656,
+          "rate_string": "2.77 IPS",
+          "runtimes": [
+            4.331072142,
+            4.4372378340000003,
+            4.5657580110000007,
+            4.4242807630000005,
+            4.4928820229999999
+          ],
+          "work": [
+            12,
+            12,
+            12,
+            12,
+            12
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Depth Estimation (SP)",
+          "id": 1161,
+          "unit": 1,
+          "score": 1020,
+          "graph_width": 22,
+          "factory_clock": 252.47223058300003,
+          "factory_runtime": 1.16355199,
+          "workload_clock": 253.63580743000003,
+          "workload_runtime": 10.960332751000001,
+          "runtime": 2.1633716940000003,
+          "rate": 7.8581041099634534,
+          "rate_string": "7.86 IPS",
+          "runtimes": [
+            2.1876392290000002,
+            2.198822136,
+            2.1876224200000003,
+            2.1873909950000003,
+            2.1633716940000003
+          ],
+          "work": [
+            17,
+            17,
+            17,
+            17,
+            17
+          ],
+          "accuracy": [
+            0.99982780189741949
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Depth Estimation (HP)",
+          "id": 1162,
+          "unit": 1,
+          "score": 1097,
+          "graph_width": 24,
+          "factory_clock": 265.60857509499999,
+          "factory_runtime": 0.82496433400000002,
+          "workload_clock": 266.43356569299999,
+          "workload_runtime": 10.144485324000001,
+          "runtime": 2.0115870680000003,
+          "rate": 8.4510386204172985,
+          "rate_string": "8.45 IPS",
+          "runtimes": [
+            2.0223399010000001,
+            2.0241230480000003,
+            2.0311003690000002,
+            2.017925097,
+            2.0115870680000003
+          ],
+          "work": [
+            17,
+            17,
+            17,
+            17,
+            17
+          ],
+          "accuracy": [
+            0.99275761437814436
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Depth Estimation (Q)",
+          "id": 1163,
+          "unit": 1,
+          "score": 595,
+          "graph_width": 13,
+          "factory_clock": 277.59076486000004,
+          "factory_runtime": 1.098320985,
+          "workload_clock": 278.68911234000001,
+          "workload_runtime": 18.340405714000003,
+          "runtime": 3.6535103150000001,
+          "rate": 4.6530592592565325,
+          "rate_string": "4.65 IPS",
+          "runtimes": [
+            3.6678250220000002,
+            3.6708221180000002,
+            3.6535103150000001,
+            3.6541754710000003,
+            3.661166632
+          ],
+          "work": [
+            17,
+            17,
+            17,
+            17,
+            17
+          ],
+          "accuracy": [
+            0.84913343741281511
+          ],
+          "adjustment": 0.98507384035767276,
+          "fallback": 0
+        },
+        {
+          "name": "Style Transfer (SP)",
+          "id": 1171,
+          "unit": 1,
+          "score": 2989,
+          "graph_width": 66,
+          "factory_clock": 298.051358419,
+          "factory_runtime": 0.53486655100000002,
+          "workload_clock": 298.58625111200001,
+          "workload_runtime": 13.369584557000001,
+          "runtime": 2.6029187560000002,
+          "rate": 3.8418410013562481,
+          "rate_string": "3.84 IPS",
+          "runtimes": [
+            2.6239108670000002,
+            2.6289876000000003,
+            2.6136589990000001,
+            2.6029187560000002,
+            2.6130854760000002
+          ],
+          "work": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Style Transfer (HP)",
+          "id": 1172,
+          "unit": 1,
+          "score": 4487,
+          "graph_width": 100,
+          "factory_clock": 312.971662745,
+          "factory_runtime": 0.41339176000000005,
+          "workload_clock": 313.38507878199999,
+          "workload_runtime": 8.9675506050000013,
+          "runtime": 1.7335060710000001,
+          "rate": 5.7686558860629447,
+          "rate_string": "5.77 IPS",
+          "runtimes": [
+            1.743668768,
+            1.7335060710000001,
+            1.737279102,
+            1.7339077430000001,
+            1.7370080050000001
+          ],
+          "work": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "accuracy": [
+            0.9999573826789856
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Style Transfer (Q)",
+          "id": 1173,
+          "unit": 1,
+          "score": 2730,
+          "graph_width": 60,
+          "factory_clock": 323.36638901500004,
+          "factory_runtime": 0.54905699500000005,
+          "workload_clock": 323.91548155300001,
+          "workload_runtime": 14.503875523000001,
+          "runtime": 2.838081635,
+          "rate": 3.5235068211841623,
+          "rate_string": "3.52 IPS",
+          "runtimes": [
+            2.8432621220000001,
+            2.8388098230000001,
+            2.838081635,
+            2.8456123180000001,
+            2.8551193580000001
+          ],
+          "work": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "accuracy": [
+            0.96288764476776123
+          ],
+          "adjustment": 0.99614549885915604,
+          "fallback": 0
+        },
+        {
+          "name": "Image Super-Resolution (SP)",
+          "id": 1181,
+          "unit": 1,
+          "score": 750,
+          "graph_width": 16,
+          "factory_clock": 339.42667622800002,
+          "factory_runtime": 0.29164246900000002,
+          "workload_clock": 339.71834037000002,
+          "workload_runtime": 5.9597186210000004,
+          "runtime": 1.083581092,
+          "rate": 27.685975901100349,
+          "rate_string": "27.7 IPS",
+          "runtimes": [
+            1.083581092,
+            1.106827244,
+            1.0941258920000001,
+            1.0977277250000002,
+            1.0864237270000001
+          ],
+          "work": [
+            30,
+            30,
+            30,
+            30,
+            30
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Image Super-Resolution (HP)",
+          "id": 1182,
+          "unit": 1,
+          "score": 672,
+          "graph_width": 14,
+          "factory_clock": 346.68463842900002,
+          "factory_runtime": 0.26828210600000002,
+          "workload_clock": 346.95294061800001,
+          "workload_runtime": 6.5819095200000008,
+          "runtime": 1.2087056390000002,
+          "rate": 24.819938810594063,
+          "rate_string": "24.8 IPS",
+          "runtimes": [
+            1.215200177,
+            1.220787198,
+            1.2191107590000001,
+            1.2104106760000002,
+            1.2087056390000002
+          ],
+          "work": [
+            30,
+            30,
+            30,
+            30,
+            30
+          ],
+          "accuracy": [
+            0.99995744228363037
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Image Super-Resolution (Q)",
+          "id": 1183,
+          "unit": 1,
+          "score": 332,
+          "graph_width": 7,
+          "factory_clock": 354.54284641300001,
+          "factory_runtime": 0.40709499900000001,
+          "workload_clock": 354.94996297599999,
+          "workload_runtime": 12.791500091000001,
+          "runtime": 2.449981309,
+          "rate": 12.244991375972983,
+          "rate_string": "12.2 IPS",
+          "runtimes": [
+            2.4576365120000001,
+            2.4661146870000001,
+            2.449981309,
+            2.4641399590000002,
+            2.4543598100000001
+          ],
+          "work": [
+            30,
+            30,
+            30,
+            30,
+            30
+          ],
+          "accuracy": [
+            0.99091500043869019
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Text Classification (SP)",
+          "id": 1211,
+          "unit": 1,
+          "score": 311,
+          "graph_width": 6,
+          "factory_clock": 368.75305163199999,
+          "factory_runtime": 0.29832715200000004,
+          "workload_clock": 369.051394808,
+          "workload_runtime": 1.8161500230000001,
+          "runtime": 0.36128824100000001,
+          "rate": 415.18096350110659,
+          "rate_string": "415.2 IPS",
+          "runtimes": [
+            0.36317444000000004,
+            0.36396554800000003,
+            0.36447449200000004,
+            0.36207795600000003,
+            0.36128824100000001
+          ],
+          "work": [
+            150,
+            150,
+            150,
+            150,
+            150
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Text Classification (HP)",
+          "id": 1212,
+          "unit": 1,
+          "score": 329,
+          "graph_width": 7,
+          "factory_clock": 371.87703087100004,
+          "factory_runtime": 0.21273249900000002,
+          "workload_clock": 372.08977892300004,
+          "workload_runtime": 1.7439845170000001,
+          "runtime": 0.34178942400000001,
+          "rate": 438.8667099307321,
+          "rate_string": "438.9 IPS",
+          "runtimes": [
+            0.359125162,
+            0.35194039800000004,
+            0.34691541800000003,
+            0.34316901300000002,
+            0.34178942400000001
+          ],
+          "work": [
+            150,
+            150,
+            150,
+            150,
+            150
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Text Classification (Q)",
+          "id": 1213,
+          "unit": 1,
+          "score": 320,
+          "graph_width": 7,
+          "factory_clock": 374.84657096200004,
+          "factory_runtime": 0.19868894000000001,
+          "workload_clock": 375.04527595600001,
+          "workload_runtime": 1.7651857420000001,
+          "runtime": 0.34921867600000001,
+          "rate": 429.53029236042346,
+          "rate_string": "429.5 IPS",
+          "runtimes": [
+            0.35160003000000001,
+            0.35150682100000002,
+            0.34921867600000001,
+            0.353438576,
+            0.35830602
+          ],
+          "work": [
+            150,
+            150,
+            150,
+            150,
+            150
+          ],
+          "accuracy": [
+            0.93333333333333335
+          ],
+          "adjustment": 0.9945137011005496,
+          "fallback": 0
+        },
+        {
+          "name": "Machine Translation (SP)",
+          "id": 1221,
+          "unit": 1,
+          "score": 408,
+          "graph_width": 9,
+          "factory_clock": 377.81710040200005,
+          "factory_runtime": 0.82963812200000009,
+          "workload_clock": 378.646764459,
+          "workload_runtime": 17.950711842,
+          "runtime": 3.5612901750000003,
+          "rate": 7.0199278271392185,
+          "rate_string": "7.02 IPS",
+          "runtimes": [
+            3.5644763610000001,
+            3.5726583980000002,
+            3.5612901750000003,
+            3.5699860120000002,
+            3.5683705260000003
+          ],
+          "work": [
+            25,
+            25,
+            25,
+            25,
+            25
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Machine Translation (HP)",
+          "id": 1222,
+          "unit": 1,
+          "score": 369,
+          "graph_width": 8,
+          "factory_clock": 397.61501890100004,
+          "factory_runtime": 0.64195367200000009,
+          "workload_clock": 398.25699648800003,
+          "workload_runtime": 19.90977753,
+          "runtime": 3.9367840210000002,
+          "rate": 6.3503610730592319,
+          "rate_string": "6.35 IPS",
+          "runtimes": [
+            3.9700617970000001,
+            3.9689551010000002,
+            3.9367840210000002,
+            3.9581948450000004,
+            3.9613873230000003
+          ],
+          "work": [
+            25,
+            25,
+            25,
+            25,
+            25
+          ],
+          "accuracy": [
+            1.0
+          ],
+          "adjustment": 1.0,
+          "fallback": 0
+        },
+        {
+          "name": "Machine Translation (Q)",
+          "id": 1223,
+          "unit": 1,
+          "score": 368,
+          "graph_width": 8,
+          "factory_clock": 419.18202627000005,
+          "factory_runtime": 0.64220698300000001,
+          "workload_clock": 419.82425116300004,
+          "workload_runtime": 19.866737751000002,
+          "runtime": 3.927943221,
+          "rate": 6.3646541188126813,
+          "rate_string": "6.36 IPS",
+          "runtimes": [
+            3.953310375,
+            3.9398358990000002,
+            3.927943221,
+            3.9479071460000004,
+            3.9787040370000004
+          ],
+          "work": [
+            25,
+            25,
+            25,
+            25,
+            25
+          ],
+          "accuracy": [
+            0.97752469661194208
+          ],
+          "adjustment": 0.99676438809406975,
+          "fallback": 0
+        }
+      ]
+    }
+  ]
+}
