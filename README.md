@@ -1,5 +1,7 @@
 # Hackintosh, Machinist D8 MAX / Dual Socket, 2x Intel Xeon E5 2680 V4, AMD Radeon RX 6650 XT and BCM for WiFI/BT/AirDrop
 
+<img width="1988" height="1186" alt="Portfolio" src="https://github.com/user-attachments/assets/54c96648-de40-42b7-9ade-916587b7db10" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Tahoe (26.3)
